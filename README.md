@@ -3,7 +3,7 @@
 </div>
 
 
-# Finagle
+# Finagle2
 
 [![Build Status](https://github.com/twitter/finagle/workflows/continuous%20integration/badge.svg?branch=develop)](https://github.com/twitter/finagle/actions?query=workflow%3A%22continuous+integration%22+branch%3Adevelop)
 [![Codecov](https://codecov.io/gh/twitter/finagle/branch/develop/graph/badge.svg)](https://codecov.io/gh/twitter/finagle)
